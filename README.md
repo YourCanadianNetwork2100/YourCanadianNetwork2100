@@ -8,9 +8,9 @@
 
 ### Who I Am
 
-Junior engineer with 8+ years of hands on experience building, testing and breaking systems across web platforms, real-time game environments and security research.
+8 years of hands on experience building, testing and breaking systems across web platforms, real-time game environments and security research.
 
-I started when most of the web was still static and Roblox development meant fighting with limited tooling and unreliable scripts. The tools have changed. The standards I hold myself to haven’t.
+I started when most of the web was still static and around 10 years Roblox development meant fighting with limited tooling and unreliable scripts. The tools have changed. The standards I hold myself to haven’t.
 
 I also run my own **marketing & cybersecurity agency**, delivering brand strategy, digital marketing, web development and both offensive and defensive security work for clients.
 
