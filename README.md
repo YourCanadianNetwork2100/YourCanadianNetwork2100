@@ -98,12 +98,6 @@ I care more about systems that survive reality, than about demos that only work 
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/YourCanadianNetwork2100/YourCanadianNetwork2100/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourCanadianNetwork2100&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=E6EDF3)
