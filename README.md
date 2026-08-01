@@ -12,7 +12,7 @@
 
 I started when most of the web was still static and around 10 years Roblox development meant fighting with limited tooling and unreliable scripts. The tools have changed. The standards I hold myself to haven’t.
 
-I also run my own **marketing & cybersecurity agency**, delivering brand strategy, digital marketing, web development and both offensive and defensive security work for clients.
+I also decided to start my own **marketing & cybersecurity agency**, delivering brand strategy, digital marketing, web development and both offensive and defensive security work for friends, family & clients.
 
 **Current focus**
 - High performance Roblox experiences written in Luau
