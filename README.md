@@ -8,7 +8,7 @@
 
 ### Who I Am
 
-8 years of hands on experience building, testing and breaking systems across web platforms, real-time game environments and security research.
+8 years of hands on experience building, testing and breaking systems across web platforms, real time game environments and security research.
 
 I started when most of the web was still static and around 10 years Roblox development meant fighting with limited tooling and unreliable scripts. The tools have changed. The standards I hold myself to haven’t.
 
